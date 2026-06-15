@@ -7,8 +7,9 @@ I tested it with HackRF One in a laboratorial conditions with parameters:
 * Transmission distance ≈ 1 meter
 
 Also before start you need some more steps:
-* Use your audio file (I used a commercial mp3 file, so I will not attch it into repository)
+* Use your audio file
 * Change device arguments in Soapy HackRF blocks for yours
 * Or maybe just use your own SDR
 
 This projetc dosn't work good enogth, because the sound isn't the cleanest, so I will keep working on it.
+I also added a test audio file "tune.mp3". It was a free test audio file. 
